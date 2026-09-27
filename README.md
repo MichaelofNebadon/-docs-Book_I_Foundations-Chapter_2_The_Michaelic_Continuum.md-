@@ -1,4 +1,4 @@
-NOTE: This is NOT Chapter 3. Chapter 3 is Ⓜ️ Force The Unqualified Absolute 
+
 
 Book I — Foundations
 
