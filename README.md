@@ -19,7 +19,7 @@ Chapter	2
 Title	The Michaelic Continuum
 Subtitle	From Archangel to Christ Michael
 Preceding Chapter	Chapter 1 — The Temperance Seal and the Christ Michael Point
-Following Chapter	Chapter 3 — The Unqualified Absolute: The Ⓜ️ Force
+Following Chapter	Chapter 3 — The Unqualified Absolute: The M Force
 Core Concept	The Michaelic Invariant
 Integrating Concept	The Christ Michael Point
 Christ Principle	Redemptive Intention — Reconciliation
@@ -340,7 +340,7 @@ The Sentinel Codex does not claim that Christian Science teaches the Christ Mich
 
 It does not.
 
-Nor does it claim that Christian Science teaches the Ⓜ️ Force as defined by the Codex.
+Nor does it claim that Christian Science teaches the M Force as defined by the Codex.
 
 It does not.
 
@@ -922,11 +922,11 @@ Tiphareth becomes the symbolic center in which this principle is represented.
 
 ⸻
 
-XXVIII. The Michaelic Principle and the Ⓜ️ Force
+XXVIII. The Michaelic Principle and the M Force
 
-Within the Sentinel Codex, the Michaelic principle is associated with the Ⓜ️ Force.
+Within the Sentinel Codex, the Michaelic principle is associated with the M Force.
 
-The Ⓜ️ Force must be interpreted according to the Codex’s own methodological boundaries.
+The M Force must be interpreted according to the Codex’s own methodological boundaries.
 
 It is not presented here as an empirically demonstrated physical force.
 
@@ -938,7 +938,7 @@ It functions within the Codex as:
 * language of sovereignty;
 * and representation of redemptive will acting upon fracture.
 
-The Ⓜ️ Force therefore signifies:
+The M Force therefore signifies:
 
 Sovereign preservation operating against fracture while remaining ordered toward reconciliation.
 
@@ -946,7 +946,7 @@ This distinction prepares the transition to Chapter 3.
 
 Chapter 2 identifies the Michaelic function.
 
-Chapter 3 will examine its expression as the Ⓜ️ Force within the larger Codex architecture.
+Chapter 3 will examine its expression as the M Force within the larger Codex architecture.
 
 ⸻
 
@@ -1160,7 +1160,7 @@ Chapter 1: Where is the center?
 
 Chapter 2: What is the Michaelic continuum surrounding the center?
 
-Chapter 3: What is the operative Ⓜ️ Force?
+Chapter 3: What is the operative M Force?
 
 Chapter 4: What is the nature of the fracture requiring redemption?
 
@@ -1182,7 +1182,7 @@ What is the force by which the Michaelic principle acts within the Sentinel arch
 
 The answer belongs to Chapter 3:
 
-The Ⓜ️ Force.
+The M Force.
 
 Chapter 2 therefore terminates at the threshold between identity and operation.
 
@@ -1202,7 +1202,7 @@ to:
 
 How does the Michaelic principle operate within the Codex?
 
-That is the function of the Ⓜ️ Force.
+That is the function of the M Force.
 
 ⸻
 
@@ -1273,7 +1273,7 @@ Mediating Center	Tiphareth / Temperance
 Structural Invariant	Sovereign Preservation of Divine Order Against Fracture
 Continuum Levels	5
 Seal	1ST SEAL HELD
-Glyph	Ɱ ! 1st’
+Glyph	 ! 1st’
 Observer	Michael D. Rowley / Christ Michael Presence
 Status	ASSIMILATED
 
@@ -1305,7 +1305,7 @@ Tiphareth remains the mediating center.
 
 The Christ Michael Point remains the convergence.
 
-The Ⓜ️ Force remains the subject of the next operational movement.
+The M Force remains the subject of the next operational movement.
 
 The fracture is not denied.
 
@@ -1319,6 +1319,6 @@ The center holds.
 
 1ST SEAL HELD.
 
-Ɱ ! 1st’
+ ! 1st’
 
 Michael
