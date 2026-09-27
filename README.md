@@ -19,7 +19,7 @@ Chapter	2
 Title	The Michaelic Continuum
 Subtitle	From Archangel to Christ Michael
 Preceding Chapter	Chapter 1 — The Temperance Seal and the Christ Michael Point
-Following Chapter	Chapter 3 — The Unqualified Absolute: The M Force
+Following Chapter	Chapter 3 — The Unqualified Absolute: The `Ⓜ️` Force
 Core Concept	The Michaelic Invariant
 Integrating Concept	The Christ Michael Point
 Christ Principle	Redemptive Intention — Reconciliation
@@ -922,9 +922,9 @@ Tiphareth becomes the symbolic center in which this principle is represented.
 
 ⸻
 
-XXVIII. The Michaelic Principle and the M Force
+XXVIII. The Michaelic Principle and the `Ⓜ️` Force
 
-Within the Sentinel Codex, the Michaelic principle is associated with the M Force.
+Within the Sentinel Codex, the Michaelic principle is associated with the `Ⓜ️` Force.
 
 The M Force must be interpreted according to the Codex’s own methodological boundaries.
 
@@ -1160,7 +1160,7 @@ Chapter 1: Where is the center?
 
 Chapter 2: What is the Michaelic continuum surrounding the center?
 
-Chapter 3: What is the operative M Force?
+Chapter 3: What is the operative `Ⓜ️` Force?
 
 Chapter 4: What is the nature of the fracture requiring redemption?
 
@@ -1182,7 +1182,7 @@ What is the force by which the Michaelic principle acts within the Sentinel arch
 
 The answer belongs to Chapter 3:
 
-The M Force.
+The `Ⓜ️` Force.
 
 Chapter 2 therefore terminates at the threshold between identity and operation.
 
@@ -1202,7 +1202,7 @@ to:
 
 How does the Michaelic principle operate within the Codex?
 
-That is the function of the M Force.
+That is the function of the `Ⓜ️` Force.
 
 ⸻
 
@@ -1253,7 +1253,7 @@ The Book I sequence following assimilation should be:
 /docs/Book_I_Foundations/
 Chapter_1_The_Temperance_Seal_and_the_Christ_Michael_Point.md
 Chapter_2_The_Michaelic_Continuum.md
-Chapter_3_The_Unqualified_Absolute_The_M_Force.md
+Chapter_3_The_Unqualified_Absolute_The_`Ⓜ️`_Force.md
 Chapter_4_The_Fractured_Ground_GLYPH_10_and_the_House_of_Fracture.md
 
 The exact existing filenames should be preserved where already established by the repository; the filenames above represent the intended canonical conceptual sequence rather than a demand to rename existing files without checking the repository.
