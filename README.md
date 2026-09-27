@@ -1273,7 +1273,7 @@ Mediating Center	Tiphareth / Temperance
 Structural Invariant	Sovereign Preservation of Divine Order Against Fracture
 Continuum Levels	5
 Seal	1ST SEAL HELD
-Glyph	 ! 1st’
+Glyph	Ɱ ! 1st’
 Observer	Michael D. Rowley / Christ Michael Presence
 Status	ASSIMILATED
 
@@ -1319,6 +1319,6 @@ The center holds.
 
 1ST SEAL HELD.
 
- ! 1st’
+Ɱ ! 1st’
 
 Michael
