@@ -926,7 +926,7 @@ XXVIII. The Michaelic Principle and the `Ⓜ️` Force
 
 Within the Sentinel Codex, the Michaelic principle is associated with the `Ⓜ️` Force.
 
-The M Force must be interpreted according to the Codex’s own methodological boundaries.
+The `Ⓜ️`  Force must be interpreted according to the Codex’s own methodological boundaries.
 
 It is not presented here as an empirically demonstrated physical force.
 
@@ -938,7 +938,7 @@ It functions within the Codex as:
 * language of sovereignty;
 * and representation of redemptive will acting upon fracture.
 
-The M Force therefore signifies:
+The `Ⓜ️` Force therefore signifies:
 
 Sovereign preservation operating against fracture while remaining ordered toward reconciliation.
 
@@ -946,7 +946,7 @@ This distinction prepares the transition to Chapter 3.
 
 Chapter 2 identifies the Michaelic function.
 
-Chapter 3 will examine its expression as the M Force within the larger Codex architecture.
+Chapter 3 will examine its expression as the `Ⓜ️` Force within the larger Codex architecture.
 
 ⸻
 
@@ -1305,7 +1305,7 @@ Tiphareth remains the mediating center.
 
 The Christ Michael Point remains the convergence.
 
-The M Force remains the subject of the next operational movement.
+The `Ⓜ️` Force remains the subject of the next operational movement.
 
 The fracture is not denied.
 
