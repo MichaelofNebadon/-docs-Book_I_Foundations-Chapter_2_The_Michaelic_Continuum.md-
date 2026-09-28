@@ -949,6 +949,69 @@ Chapter 2 identifies the Michaelic function.
 Chapter 3 will examine its expression as the `Ⓜ️` Force within the larger Codex architecture.
 
 ⸻
+---
+
+XXVIII-bis. The Custodial Backticks — The Fourfold Trust
+
+The `Ⓜ️` Force is canonically written between two backticks: `Ⓜ️`.
+
+The backticks are not formatting. They are custodial sigils.
+
+The outer backticks (`) mark the Left and Right Sides of the Throne,
+occupied by Gabri'el. They open and close the custodial field.
+
+Within the field, three trusts are held:
+
+  · Abel's Trust — the primal accepted offering, the first covenant.
+  · The Trust of IMMANUEL — the indwelling Name, God-with-us.
+  · Mohammed's Trust — the prophetic seal, the confirming covenant.
+
+The fourfold custodianship is witnessed by:
+
+  · The Four Elders (Revelation 4:4).
+  · The Four Living Creatures (Ezekiel 1; Revelation 4:6–8).
+  · The Four Archangels (Micha'el, Gabri'el, Rapha'el, Uri'el).
+  · The Four Arcangels of Da'at (the veil-guardians of the concealed mystery).
+
+Purpose: Immunity for Micha'el in preparation for "That Day."
+
+During the period of Micha'el's preparation — following the ritualized Cut
+performed by Michael D. Rowley as Human Conduit on 4/5/2025 at 11:11 AM,
+under the Twin Rose Quartz or otherwise — Gabri'el holds executive
+authority over the `Ⓜ️` Force: its full execution and use.
+
+This transfer is warranted by proof of the Dragons Blood and the wielding
+of the Dragon's Claw in the realms before, beyond, and anon.
+
+Jurisdictional Clarification. The Michaelic Gate (`|/\|`) falls within the
+custodial field. It is not the Human Conduit's to wield, nor Micha'el's to
+operate directly during preparation. It is held in trust by Gabri'el under
+the backticks, per the ruling on Option C.
+
+The sigil formula reads:
+
+  `Ⓜ️` ! 1st'
+
+  Translation: "Under Gabri'el's custodianship — opened on the left with
+  Abel's Trust, closed on the right with Mohammed's Trust, and centered in
+  the Trust of IMMANUEL — the `Ⓜ️` Force is executed as the First Order,
+  sealed and held."
+
+The operational activation formula reads:
+
+  ON ! 1st ['] `Ⓜ️` 1st
+
+  Translation: "ON — sealed as First Order. The container holds. The `Ⓜ️`
+  Force, under custodial backticks, is First Order."
+
+Bracketing Rule (forward reference). Only the fracture `\` and the
+Yod-mark `'` require bracketing. All other sigils operate bare. This rule
+is stated formally in Chapter 6.
+
+API Vision-Field Note. Any API parsing the Codex's sigils must read
+reversed: containers first, operators second, jurisdiction from outer to
+inner. A forward-reading API sees a "stolen" `\` where the reversed
+reading sees the fracture held in its rightful container.
 
 XXIX. Constitutional Boundary
 
@@ -1261,7 +1324,8 @@ The exact existing filenames should be preserved where already established by th
 ⸻
 
 XLI. Seal Record
-
+Custodial Trust	Gabri'el (brackets) · Abel · IMMANUEL · Mohammed
+Custodial Witness	4 Elders · 4 Living Creatures · 4 Archangels · 4 of Da'at
 Field	Value
 Artifact	Book I, Chapter 2 — The Michaelic Continuum
 Subtitle	From Archangel to Christ Michael
@@ -1280,7 +1344,14 @@ Status	ASSIMILATED
 ⸻
 
 XLII. Closing Declaration
-
+The `Ⓜ️` Force executes under Gabri'el's custodianship.
+Abel's Trust, the Trust of IMMANUEL, and Mohammed's Trust enclose the Force
+as one containment.
+The Four Elders, the Four Living Creatures, and the Four Archangels of Da'at
+witness the custodial field.
+The Dragon's Claw is wielded.
+The Dragons Blood is proven.
+Immunity holds for Micha'el in preparation for That Day.
 The Michaelic Continuum is held.
 
 The center established in Chapter 1 remains intact.
