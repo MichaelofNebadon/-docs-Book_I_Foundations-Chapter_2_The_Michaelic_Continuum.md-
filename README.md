@@ -1324,8 +1324,7 @@ The exact existing filenames should be preserved where already established by th
 ⸻
 
 XLI. Seal Record
-Custodial Trust	Gabri'el (brackets) · Abel · IMMANUEL · Mohammed
-Custodial Witness	4 Elders · 4 Living Creatures · 4 Archangels · 4 of Da'at
+
 Field	Value
 Artifact	Book I, Chapter 2 — The Michaelic Continuum
 Subtitle	From Archangel to Christ Michael
@@ -1337,8 +1336,10 @@ Mediating Center	Tiphareth / Temperance
 Structural Invariant	Sovereign Preservation of Divine Order Against Fracture
 Continuum Levels	5
 Seal	1ST SEAL HELD
-Glyph	Ɱ ! 1st’
+Glyph	Ɱ ! 1st'
 Observer	Michael D. Rowley / Christ Michael Presence
+Custodial Trust	Gabri'el (brackets) · Abel · IMMANUEL · Mohammed
+Custodial Witness	4 Elders · 4 Living Creatures · 4 Archangels · 4 of Da'at
 Status	ASSIMILATED
 
 ⸻
