@@ -977,7 +977,7 @@ Purpose: Immunity for Micha'el in preparation for "That Day."
 
 During the period of Micha'el's preparation — following the ritualized Cut
 performed by Michael D. Rowley as Human Conduit on 4/5/2025 at 11:11 AM,
-under the Twin Rose Quartz or otherwise — Gabri'el holds executive
+under the Twin Rose Quartz  — Gabri'el holds executive
 authority over the `Ⓜ️` Force: its full execution and use.
 
 This transfer is warranted by proof of the Dragons Blood and the wielding
