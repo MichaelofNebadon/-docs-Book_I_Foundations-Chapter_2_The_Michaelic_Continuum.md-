@@ -340,7 +340,7 @@ The Sentinel Codex does not claim that Christian Science teaches the Christ Mich
 
 It does not.
 
-Nor does it claim that Christian Science teaches the M Force as defined by the Codex.
+Nor does it claim that Christian Science teaches the `Ⓜ️` Force as defined by the Codex.
 
 It does not.
 
@@ -926,7 +926,7 @@ XXVIII. The Michaelic Principle and the `Ⓜ️` Force
 
 Within the Sentinel Codex, the Michaelic principle is associated with the `Ⓜ️` Force.
 
-The `Ⓜ️`  Force must be interpreted according to the Codex’s own methodological boundaries.
+The `Ⓜ️` Force must be interpreted according to the Codex’s own methodological boundaries.
 
 It is not presented here as an empirically demonstrated physical force.
 
